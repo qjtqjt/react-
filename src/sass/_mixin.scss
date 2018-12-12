@@ -1,0 +1,27 @@
+@function h($px){
+    @return ($px/37.5)*1rem;
+}
+@function w($px){
+    @return ($px/37.5)*1rem;
+}
+@function br($px){
+    @return ($px/37.5)*1rem;
+}
+@function lh($px){
+    @return ($px/37.5)*1rem;
+}
+@function top($px){
+    @return ($px/37.5)*1rem;
+}
+@function left($px){
+    @return ($px/37.5)*1rem;
+}
+@function rigth($px){
+    @return ($px/37.5)*1rem;
+}
+@function bottom($px){
+    @return ($px/37.5)*1rem;
+}
+@function fs($px){
+    @return ($px/37.5)*1rem;
+}
